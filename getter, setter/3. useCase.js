@@ -10,5 +10,5 @@ function User(name, birthday) {
   });
 }
 
-const user = new User("seunghwan", new Date(1994, 8, 15));
+const user = new User("seunghwan", new Date(1994, 9, 15));
 console.log(user.age);
